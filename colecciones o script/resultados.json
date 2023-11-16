@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65547374be06527a0d68cda9"
+  },
+  "fk_encuentros": "65545395be06527a0d68ca9a",
+  "marcador_local": 2,
+  "marcador_visitante": 1
+},{
+  "_id": {
+    "$oid": "6554737fbe06527a0d68cdac"
+  },
+  "fk_encuentros": "655453a4be06527a0d68ca9f",
+  "marcador_local": 3,
+  "marcador_visitante": 0
+},{
+  "_id": {
+    "$oid": "65547389be06527a0d68cdb1"
+  },
+  "fk_encuentros": "655453eabe06527a0d68caa4",
+  "marcador_local": 1,
+  "marcador_visitante": 1
+},{
+  "_id": {
+    "$oid": "65547392be06527a0d68cdb4"
+  },
+  "fk_encuentros": "65545408be06527a0d68caa7",
+  "marcador_local": 2,
+  "marcador_visitante": 2
+},{
+  "_id": {
+    "$oid": "6554739dbe06527a0d68cdb7"
+  },
+  "fk_encuentros": "65545427be06527a0d68caac",
+  "marcador_local": 0,
+  "marcador_visitante": 1
+}]
